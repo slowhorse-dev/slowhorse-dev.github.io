@@ -24,8 +24,8 @@ description: >-
   Am I the slow horse?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vtsao
-github_username:  vtsao
+twitter_username: slowhorse-dev
+github_username:  slowhorse-dev
 
 # Build settings
 theme: minima
